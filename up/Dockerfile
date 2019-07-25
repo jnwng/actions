@@ -1,4 +1,4 @@
-FROM golang:1.11
+FROM lambci/lambci:latest
 
 LABEL version="1.0.0"
 LABEL maintainer="Apex"
